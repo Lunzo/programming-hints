@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Programming-Hints.com'
-theme = "my-hugo-book"
+theme = "hugo-book-9"
 
 [params]
   # (Optional, default docs) Specify section of content to render as menu
