@@ -1,8 +1,6 @@
 ---
 title: "Error Logging with log4net"
 date: 2014-03-21T11:44:00
-# bookComments: false
-# bookSearchExclude: false
 tags: .NET C# "error handling" logging
 ---
 When handling errors you want to do one of the following:
