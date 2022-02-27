@@ -6,10 +6,6 @@ theme = "hugo-book-9"
 [params]
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu
-  BookSection = 'docs'
-
-  # (Optional, default docs) Specify section of content to render as menu
-  # You can also set value to "*" to render all sections to menu
   BookSection = '*'
 
   # (Optional, default January 2, 2006) Configure the date format used on the pages
@@ -22,3 +18,7 @@ theme = "hugo-book-9"
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
   BookComments = false
+  
+[permalinks]
+  # Cool URLs don't change
+  posts = '/:year/:month/:day/:filename/'  
