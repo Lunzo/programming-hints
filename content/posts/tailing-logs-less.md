@@ -1,7 +1,7 @@
 ---
 title: "Tailing Logs with less"
 date: 2014-09-22T05:46:00
-tags: linux shell less
+tags: [linux, shell, less]
 ---
 `less` is already an incredibly useful command in linux (GNU/linux for the purists). It's a better version of `more`, for paging through files. One not so well known switch for `less` is the following:
 

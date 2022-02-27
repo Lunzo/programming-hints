@@ -1,7 +1,7 @@
 ---
 title: "Development Process"
 date: 2014-10-10T19:11:00
-tags: article meta process
+tags: [article, meta, process]
 ---
 I highly recommend having a read through this talk: [Move Fast and Break Nothing](http://zachholman.com/talk/move-fast-break-nothing/). There are some great ideas in it on continuous development, testing, communication and learning/teaching on the job. Well worth the time to read through and think about whether you can apply some of the points in it to your work.
 

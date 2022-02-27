@@ -1,7 +1,7 @@
 ---
 title: "NUnit & Parameterized Tests"
 date: 2014-10-15T03:16:00
-tags: .NET C# JUnit NUnit testing
+tags: [.NET, C#, JUnit, NUnit, testing]
 ---
 ## What is NUnit and why use it?
 

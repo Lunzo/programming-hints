@@ -1,7 +1,7 @@
 ---
 title: "A more organic approach to Object-Oriented design"
 date: 2014-11-23T10:43:00
-tags: article "object oriented design" design
+tags: [article, "object oriented design", design]
 ---
 Today's article I'd like to share with you is: [Semantic Compression](https://caseymuratori.com/blog_0015).
 

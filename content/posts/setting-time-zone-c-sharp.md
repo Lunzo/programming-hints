@@ -3,7 +3,7 @@ title: "Setting the time zone in C#.NET"
 date: 2014-04-03T21:31:00
 # bookComments: false
 # bookSearchExclude: false
-tags: .NET C# Database DateTime Timezone UTC
+tags: [.NET, C#, Database, DateTime, Timezone, UTC]
 ---
 DateTimes in .NET are always in one of two timezones - UTC or local time. This advice will make your life easier:
 

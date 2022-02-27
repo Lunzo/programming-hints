@@ -1,7 +1,7 @@
 ---
 title: "Python Config Files with Lists and Dictionaries"
 date: 2014-11-16T01:25:00
-tags: config json python
+tags: [config, json, python]
 ---
 A common problem with configuration files is that they only allow simple values like strings, integers, doubles. It's not uncommon to want to include more complex values such as a list or dictionary in your config.
 
