@@ -9,6 +9,12 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
 
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+
 # Needed for mermaid shortcodes
 [markup]
   [markup.goldmark.renderer]

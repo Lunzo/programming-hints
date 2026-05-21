@@ -24,9 +24,9 @@ PROGMEM const char *string_table[] = 	   // change "string_table" name to suit
 strcpy_P(buffer, (char*)pgm_read_word(&(string_table[i]))); // Necessary casts and dereferencing, just copy.
 ```
 
-I don’t like the fact that they create global variables called string_N then load them in an array of a different type and reference the variables by array index later. It all seems rather unnecessary.
+I don't like the fact that they create global variables called string_N then load them in an array of a different type and reference the variables by array index later. It all seems rather unnecessary.
 
-It seemed like there should be a more straight-forward way of doing things and after reading the header file and playing around for a few minutes, here’s what I came up with:
+It seemed like there should be a more straight-forward way of doing things and after reading the header file and playing around for a few minutes, here's what I came up with:
 
 ```
 // create strings in flash memory
@@ -47,4 +47,4 @@ strcpy_P(thirdLine, STRING_MERRY);
 strcpy_P(fourthLine, STRING_XMAS);
 ```
 
-Unfortunately global variables are still required. At least I’ve given them sensible names (STRING_WISH was initially the word ‘wish’ but I later decided ‘have’ sounded better). Loading the strings from program memory into RAM doesn’t require any manipulation of the arguments. No need to remember “magic” array indices or for type casting or unnecessary calls to `pgm_read_word`.
+Unfortunately global variables are still required. At least I've given them sensible names (STRING_WISH was initially the word 'wish' but I later decided 'have' sounded better). Loading the strings from program memory into RAM doesn't require any manipulation of the arguments. No need to remember "magic" array indices or for type casting or unnecessary calls to `pgm_read_word`.
