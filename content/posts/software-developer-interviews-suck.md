@@ -1,7 +1,7 @@
 ---
 title: "Software Developer Interviews Suck"
 date: 2017-02-27T00:18:00
-tags: meta
+tags: ["interviewing", "career", "business"]
 ---
 Interviewing for a software engineering role is more onerous than interviewing for any other profession. Interviewing for most non-software professional jobs typically consists of a phone screen and one to two interviews on site, where you talk about what you did in previous jobs. At no point during are you asked to demonstrate any skills, you're trusted as an adult that you're telling the truth about your experience and qualifications.
 

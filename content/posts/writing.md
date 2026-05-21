@@ -1,7 +1,7 @@
 ---
 title: "Writing"
 date: 2022-03-12T10:14:46-08:00
-tags: article
+tags: ["article"]
 ---
 [Today's article is all about the importance of writing and its usefulness in advancing your career](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/). Clear writing in a work context is even more important now for those who are working remotely.
 
