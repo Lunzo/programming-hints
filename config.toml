@@ -1,6 +1,6 @@
 baseURL = "http://localhost"
 title = "Programming Hints"
-theme = "hugo-geekblog"
+theme = "hugo-geekblog-1.1.0"
 
 pluralizeListTitles = false
 
